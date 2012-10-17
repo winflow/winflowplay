@@ -1,14 +1,14 @@
 # WinFlow Analytics
 
-# Installing
+## Installing
 
-# Getting Started
+## Getting Started
 
-# Running the Application
+## Running the Application
 
-# Documentation
+## Documentation
 
-# Issues Tracker
+## Issues Tracker
 
 ## License
 
