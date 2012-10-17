@@ -1,4 +1,9 @@
 # WinFlow Analytics
+WinFlow Analytics is a Java Web application for analyzing data gathered from Interactive Brokers using their IB Java API.
+
+## Technologies
+* Play Framework 2.0
+* Java
 
 ## Installing
 
